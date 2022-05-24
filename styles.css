@@ -175,6 +175,10 @@ header .nav a:hover {
 
 @media (max-width: 768px) {
 
+    section {
+        background-position: center;
+    }
+
     .content {
         margin: 60px 20px;
     }
@@ -189,18 +193,30 @@ header .nav a:hover {
 
     .content .info p {
         font-size: 14px;
+        width: 60%;
     }
 
     .play-circle-start a {
-     visibility: hidden;
+        font-size: 100%;
+        margin: 10px 10px;
     }
 
     .play-circle-middle a {
-        visibility: hidden;
+        font-size: 100%;
+        margin: 10px -1px;
     }
 
     .play-circle-end a {
-        visibility: hidden;
+        font-size: 100%;
+        margin: 10px -12px;
+    }
+
+    header .nav a {
+        font-size: 60%;
+        padding: 2px;
+    }
+    header .sign-in-btn a {
+        font-size: 60%;
     }
 }
 
