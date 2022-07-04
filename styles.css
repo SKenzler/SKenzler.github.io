@@ -34,7 +34,7 @@ header {
 }
 
 .play-circle-start a {
-    color:#00FF20;
+    color:#69AB3D;
     font-size: 30px;
     position: absolute;
     left: 10px;
@@ -50,7 +50,7 @@ header {
 }
 
 .play-circle-end a {
-    color: #00FF20;
+    color: #69AB3D;
     font-size: 30px;
     position: absolute;
     left: 60px;
@@ -71,7 +71,7 @@ header .nav a {
 }
 
 header .sign-in-btn a {
-    background: #00FF20;
+    background: #69AB3D;
     color: #4A4949;
     text-decoration: none;
     font-weight: 500;
@@ -114,7 +114,7 @@ header .nav a:hover {
 }
 
 .content .info h2 span {
-    color:#00FF20;
+    color:#69AB3D;
     font-size: 80px;
 }
 
@@ -134,7 +134,7 @@ header .nav a:hover {
     font-size: 14px;
     font-weight: 500;
     color: #4A4949;
-    background: #00FF20;
+    background: #69AB3D;
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 2px;
