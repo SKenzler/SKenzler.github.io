@@ -1,2 +1,2 @@
-# SKenzler.github.io
-Landing Page for a Community Jazz club
+# Portfolio
+A personal portfolio showcasing projects and desings.
